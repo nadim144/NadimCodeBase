@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "List and Anchor Tag", "List and Anchor Tag", "{602EDE8A-61B4-4079-A92F-AB6DAE4B9744}"
+	ProjectSection(SolutionItems) = preProject
+		AnchorTagLinkTag.html = AnchorTagLinkTag.html
+		details.html = details.html
+		LinkGoToNextTag.html = LinkGoToNextTag.html
+		main.html = main.html
+		TypeofList.html = TypeofList.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "deviding HTML body into multiple type", "deviding HTML body into multiple type", "{44AF638D-7657-45FD-981A-05B130A00138}"
+	ProjectSection(SolutionItems) = preProject
+		UsingTableBodyDeviding.html = UsingTableBodyDeviding.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9642F344-2E4E-4B7B-9E41-654C8325A6E5}"
+	ProjectSection(SolutionItems) = preProject
+		Developer-Guide.txt = Developer-Guide.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72822214-22E1-49A4-8F07-F5CFC268CB08}
+	EndGlobalSection
+EndGlobal

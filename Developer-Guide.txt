@@ -1,0 +1,18 @@
+
+Anchor Tag:
+----------
+	-> <a href = "FileName" target ="" title=""> Link Text </a>
+		- href = the file name where it has to redirect.
+		- target = the place/location where next page has to appear
+		- title = for user guidance and for Digital marketing (SEO purpose)
+-----------------------------Target Attiribute Only using  HTML--------------------------------------------------------------
+		_self -> it is default target, next page will open in current window.
+		_new -> For new tab, but only for first click
+		_blank -> to open new tab on every click
+---------------------------- Target Attiribute Using JavaScript and JQuery -------------------------------------------------
+		_child
+		_parent
+-------------------------------Target Attiribute Uing FrameSet -------------------------------------------------------------
+		_top
+		UserDefined
+-----------------------------------------------------------------------------------------------------------------------------
